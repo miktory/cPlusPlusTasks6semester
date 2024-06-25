@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-// Задание 4_1
+// Р—Р°РґР°РЅРёРµ 4_1
 using namespace std;
 namespace ex3
 {
