@@ -1,6 +1,6 @@
 #include "ex2.h"
 
-// Задание 3_2
+// Р—Р°РґР°РЅРёРµ 3_2
 namespace ex2
 {
 	int getShortestWordLength(const char* str)
