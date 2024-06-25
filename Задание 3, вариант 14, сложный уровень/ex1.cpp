@@ -1,6 +1,6 @@
 #include "ex1.h"
 
-// Çàäàíèå 3_1
+// Задание 3_1
 namespace ex1
 {
 	const char* getSymbols(const char* str)
