@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 
-// Задание 3_1
+// Р—Р°РґР°РЅРёРµ 3_1
 namespace ex1
 {
 	const char* getSymbols(const char* str);
