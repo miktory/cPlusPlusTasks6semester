@@ -1,7 +1,7 @@
 #include "ex3.h"
 using namespace std;
 
-// Задание 4_1
+// Р—Р°РґР°РЅРёРµ 4_1
 namespace ex3
 {
     const string deleteFirstOccurrence(string str, const char symbol)
