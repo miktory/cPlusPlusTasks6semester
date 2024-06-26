@@ -42,6 +42,7 @@ int main()
     const char* input = "This string contais a lot of symbols";
     char* output = ex3::deleteFirstOccurrence(input, 'g');
     std::cout << "Input str: " << "\"" << input << "\"" << " Output str: " << "\"" << output << "\"" << std::endl;
+    delete[] output;
 
 
 }
